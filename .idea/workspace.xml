@@ -2,6 +2,208 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b44dc1e-b086-4599-9551-cbdce1e5d6b3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/ubuntu/Ubuntu-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/ubuntu/Ubuntu-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/ubuntu/Ubuntu-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/ubuntu/Ubuntu-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/ubuntu/Ubuntu-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/ubuntu/Ubuntu-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/ubuntu/Ubuntu-MediumItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/ubuntu/Ubuntu-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-Black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-BlackItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-ExtraBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-ExtraBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-ExtraLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-ExtraLightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-MediumItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-SemiBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-SemiBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/Montserrat-ThinItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-Black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-BlackItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-ExtraBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-ExtraBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-ExtraLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-ExtraLightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-MediumItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-SemiBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-SemiBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/poppins/Poppins-ThinItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/ubuntu/Ubuntu-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/ubuntu/Ubuntu-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/ubuntu/Ubuntu-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/ubuntu/Ubuntu-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/ubuntu/Ubuntu-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/ubuntu/Ubuntu-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/ubuntu/Ubuntu-MediumItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts2/ubuntu/Ubuntu-Regular.ttf" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts/ubuntu/Ubuntu-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts/ubuntu/Ubuntu-BoldItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts/ubuntu/Ubuntu-Italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts/ubuntu/Ubuntu-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts/ubuntu/Ubuntu-LightItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts/ubuntu/Ubuntu-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts/ubuntu/Ubuntu-MediumItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts/ubuntu/Ubuntu-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-BlackItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-BoldItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-ExtraBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-ExtraBoldItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-ExtraLight.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-ExtraLightItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-Italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-LightItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-MediumItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-SemiBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-SemiBoldItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/Montserrat-ThinItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-BlackItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-BoldItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-ExtraBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-ExtraBoldItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-ExtraLight.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-ExtraLightItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-Italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-LightItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-MediumItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-SemiBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-SemiBoldItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/poppins/Poppins-ThinItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/ubuntu/Ubuntu-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/ubuntu/Ubuntu-BoldItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/ubuntu/Ubuntu-Italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/ubuntu/Ubuntu-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/ubuntu/Ubuntu-LightItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/ubuntu/Ubuntu-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/ubuntu/Ubuntu-MediumItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/ubuntu/Ubuntu-Regular.ttf" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/css2/main.css" afterPath="$PROJECT_DIR$/blog/static/css2/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/css2/util.css" afterPath="$PROJECT_DIR$/blog/static/css2/util.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts/ubuntu/UFL.txt" afterPath="$PROJECT_DIR$/blog/static/fonts/ubuntu/UFL.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg" afterPath="$PROJECT_DIR$/blog/static/fonts2/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/Linearicons-Free-v1.0.0/icon-font.min.css" afterPath="$PROJECT_DIR$/blog/static/fonts2/Linearicons-Free-v1.0.0/icon-font.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/HELP-US-OUT.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/less/animated.less" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/less/animated.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/less/core.less" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/less/core.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/less/fixed-width.less" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/less/fixed-width.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/less/font-awesome.less" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/less/font-awesome.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/less/icons.less" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/less/icons.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/less/larger.less" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/less/larger.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/less/list.less" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/less/list.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/less/mixins.less" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/less/mixins.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/less/path.less" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/less/path.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/less/rotated-flipped.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/less/screen-reader.less" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/less/screen-reader.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/less/stacked.less" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/less/stacked.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/less/variables.less" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/less/variables.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/scss/_animated.scss" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/scss/_animated.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/scss/_core.scss" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/scss/_core.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/scss/_fixed-width.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/scss/_icons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/scss/_larger.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/scss/_list.scss" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/scss/_list.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/scss/_mixins.scss" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/scss/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/scss/_path.scss" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/scss/_path.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/scss/_stacked.scss" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/scss/_stacked.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/scss/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/blog/static/fonts2/font-awesome-4.7.0/scss/font-awesome.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/montserrat/OFL.txt" afterPath="$PROJECT_DIR$/blog/static/fonts2/montserrat/OFL.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/fonts2/ubuntu/UFL.txt" afterPath="$PROJECT_DIR$/blog/static/fonts2/ubuntu/UFL.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/images2/icons/favicon.ico" afterPath="$PROJECT_DIR$/blog/static/images2/icons/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/images2/icons/icon-google.png" afterPath="$PROJECT_DIR$/blog/static/images2/icons/icon-google.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/images2/icons/map-marker.png" afterPath="$PROJECT_DIR$/blog/static/images2/icons/map-marker.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/images2/icons/symbol-01.png" afterPath="$PROJECT_DIR$/blog/static/images2/icons/symbol-01.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/js2/main.js" afterPath="$PROJECT_DIR$/blog/static/js2/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/animate/animate.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/animate/animate.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/animsition/css/animsition.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/animsition/css/animsition.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/animsition/css/animsition.min.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/animsition/css/animsition.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/animsition/js/animsition.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/animsition/js/animsition.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/animsition/js/animsition.min.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/animsition/js/animsition.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/css/bootstrap-grid.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/css/bootstrap-grid.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/css/bootstrap-grid.css.map" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/css/bootstrap-grid.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/css/bootstrap-grid.min.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/css/bootstrap-grid.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/css/bootstrap-grid.min.css.map" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/css/bootstrap-grid.min.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/css/bootstrap-reboot.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/css/bootstrap-reboot.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/css/bootstrap-reboot.css.map" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/css/bootstrap-reboot.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/css/bootstrap-reboot.min.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/css/bootstrap-reboot.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/css/bootstrap-reboot.min.css.map" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/css/bootstrap-reboot.min.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/css/bootstrap.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/css/bootstrap.min.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/js/popper.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/js/popper.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/js/popper.min.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/js/popper.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/bootstrap/js/tooltip.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/bootstrap/js/tooltip.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/countdowntime/countdowntime.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/countdowntime/countdowntime.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/css-hamburgers/hamburgers.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/css-hamburgers/hamburgers.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/css-hamburgers/hamburgers.min.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/css-hamburgers/hamburgers.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/daterangepicker/daterangepicker.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/daterangepicker/daterangepicker.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/daterangepicker/daterangepicker.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/daterangepicker/daterangepicker.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/daterangepicker/moment.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/daterangepicker/moment.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/daterangepicker/moment.min.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/daterangepicker/moment.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/jquery/jquery-3.2.1.min.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/jquery/jquery-3.2.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/perfect-scrollbar/perfect-scrollbar.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/perfect-scrollbar/perfect-scrollbar.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/perfect-scrollbar/perfect-scrollbar.min.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/perfect-scrollbar/perfect-scrollbar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/select2/select2.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/select2/select2.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/select2/select2.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/select2/select2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/select2/select2.min.css" afterPath="$PROJECT_DIR$/blog/static/vendor2/select2/select2.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/templates/static/vendor2/select2/select2.min.js" afterPath="$PROJECT_DIR$/blog/static/vendor2/select2/select2.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,18 +215,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#53#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -212,26 +402,22 @@
               <item name="djangoapp2" type="b2602c69:ProjectViewProjectNode" />
               <item name="djangoapp2" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoapp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="djangoapp2" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoapp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="djangoapp2" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="djangoapp2" type="b2602c69:ProjectViewProjectNode" />
               <item name="djangoapp2" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoapp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoapp2" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts2" type="462c0819:PsiDirectoryNode" />
+              <item name="font-awesome-4.7.0" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="djangoapp2" type="b2602c69:ProjectViewProjectNode" />
@@ -255,6 +441,7 @@
       <recent name="C:\Users\moaz\Desktop\Python\djangoapp\blog\templates\blog" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\moaz\Desktop\Python\djangoapp2\blog\static" />
       <recent name="C:\Users\moaz\Desktop\Python\djangoapp2\blog\templates" />
       <recent name="C:\Users\moaz\Desktop\Python\djangoapp2\templates\registration" />
     </key>
@@ -401,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516837404057</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add login page">
+      <created>1516837840526</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1516837840526</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -409,7 +603,7 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18814056" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32838285" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -441,13 +635,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/static/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2280">
-          <caret line="95" column="19" lean-forward="false" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1008">
@@ -767,6 +954,14 @@
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css2/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
