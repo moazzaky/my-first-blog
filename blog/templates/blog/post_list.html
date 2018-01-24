@@ -24,12 +24,11 @@
 	    </div> <!-- /container -->
 	</div><!-- /ww -->
 {% for post in posts %}
-<div class="col-lg-4">
-
+<div class="col-lg-4" >
+		<h1><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h1>
         <p id="pub_date">published: {{ post.published_date }}</p>
 
-    <h1><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h1>
-    <p>{{ post.text|linebreaksbr }}</p>
+    <p style="background-color:rgb(230,230,230);">{{ post.text|linebreaksbr }}</p>
 
 </div>
 {% endfor %}
